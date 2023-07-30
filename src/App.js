@@ -1,11 +1,12 @@
+import React from 'react';
 import './App.css';
+import PathfindingsVisualizer from './PathfindingVisualizer/PathfindingVisualizer';
+
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-       <h1>Dijkstras algorithms</h1>
-      </header>
+      <PathfindingsVisualizer></PathfindingsVisualizer>
     </div>
   );
 }
