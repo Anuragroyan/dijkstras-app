@@ -1,5 +1,5 @@
 # About the project
-this project is a visual representation of dijkstras algorithms using reactjs framework the main objective is find the shortest path between source and destination.
+This project is a visual representation of dijkstras algorithms using reactjs framework the main objective is find the shortest path between source and destination.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
